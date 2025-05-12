@@ -1,5 +1,4 @@
-// by
-// ｖｒａｋｏｄｅｖ
+// by ｖｒａｋｏｄｅｖ
 
 @echo off
 :: Habilitar expansión retardada de variables
